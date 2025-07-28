@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Jawad+Ahmed;Computer+Engineer" alt="Name and Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=WELCOME" alt="Name and Title" />
 </div>
 
 # Hi there, I'm Jawad Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
