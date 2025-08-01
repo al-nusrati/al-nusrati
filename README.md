@@ -107,8 +107,8 @@ const Jawad = {
 <div align="center">
   <img src="https://img.shields.io/badge/FPGA_Development-Expert-FF6B35?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Computer_Architecture-Advanced-4ECDC4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine_Learning-Intermediate-45B7D1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Digital_Design-Expert-96CEB4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine_Learning-Beginner-45B7D1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Digital_Design-Expert-FF6B36?style=for-the-badge" />
 </div>
 
 ---
