@@ -12,7 +12,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
-## 🚀 About Me
+##  About Me
 
 ```javascript
 const Jawad = {
@@ -36,7 +36,7 @@ const Jawad = {
 
 ---
 
-## 🛠️ Tech Stack & Specializations
+##  Tech Stack & Specializations
 
 ### **Programming Languages**
 <div align="center">
@@ -84,7 +84,7 @@ const Jawad = {
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=al-nusrati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -132,7 +132,7 @@ const Jawad = {
 
 ---
 
-## 💭 Current Focus
+##  Current Focus
 
 🔥 **Building** advanced FPGA-based systems with AI integration  
 🚀 **Exploring** neural network hardware acceleration techniques  
